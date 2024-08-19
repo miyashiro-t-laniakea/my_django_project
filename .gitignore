@@ -1,0 +1,21 @@
+# Python関連
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# 環境設定ファイル
+.vscode/
+.idea/
+
+# Docker関連
+*.log
+*.pid
+*.sock
+*.coverage
+*.tox
+.coverage.*
+.docker/
+
+# Python virtual environment
+venv/
